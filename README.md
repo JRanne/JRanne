@@ -18,7 +18,7 @@ integrating technologies, and turning requirements into architectures that teams
 [**Vimma**](https://github.com/vimma-browser/vimma) is a keyboard-first web browser built on
 Firefox.
 
-- **Modal like Neovim:** normal, insert, visual and hint modes, plus a tmux-style prefix key
+- **Modal like Vim:** normal, insert, visual and hint modes, plus a tmux-style prefix key
   (`ctrl+b`) for tabs, splits, workspaces and the side panel.
 - **Workspaces as containers:** each workspace keeps its own cookies and logins.
 - **Optional agent workspace:** local tools can use a separate workspace through MCP, and every
